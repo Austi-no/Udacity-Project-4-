@@ -1,0 +1,1 @@
+{"buildTargets":["all","install","install-all","install-hadolint","install-minikube","lint","run-app","setup","test","test-junit"],"launchTargets":[],"customConfigurationProvider":{"workspaceBrowse":{"browsePath":[],"compilerArgs":[]},"fileIndex":[]}}
